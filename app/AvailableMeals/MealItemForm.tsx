@@ -12,7 +12,6 @@ const MealItemForm =()=>{
           />
           <button
             className="px-4 bg-red-800 text-white font-bold rounded-xl w-fit"
-           
           >
             <p>+ Add</p>
           </button>
